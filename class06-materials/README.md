@@ -40,3 +40,35 @@ Nothing due Tuesday specifically of next week
 ⭐ Office Hours Sunday - 1pm ET ⭐ 
 
 ⭐ Next Class Tuesday - 6:30pm ET ⭐ 
+
+
+
+Leon — Today at 6:55 PM
+Hey @everyone
+
+Thanks for getting in some practice reps today! Hopefully, see some of you at the twitter space tomorrow and office hours on Sunday! 
+
+   Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1486829337026260994
+
+And here are the slides: https://slides.com/leonnoel/100devs2-review-and-responsive
+
+Our last class can be found here: https://youtu.be/E6Z8cWU_fjI
+
+Submit Homework Due Today: 
+Place your Three Layouts and Simple Site Lab in separate codepen.io, glitch.com, or replit.com 
+Submit the URLs here: https://forms.gle/rvPhDrbp56DQKgPaA
+
+For Homework: 
+Due Thursday (Feb. 3rd)- 
+Do: Make 15 minutes of pain responsive
+Read: http://learnlayout.com/
+Read: https://learn.shayhowe.com/advanced-html-css/
+Do: Practice Typing - https://www.keybr.com/
+
+Nothing due Tuesday specifically of next week
+
+  Twitter Space With Alumni - Tomorrow 6pm ET  
+
+  Office Hours Sunday - 1pm ET   
+
+  Next Class Tuesday - 6:30pm ET   
