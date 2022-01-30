@@ -72,3 +72,42 @@ Nothing due Tuesday specifically of next week
   Office Hours Sunday - 1pm ET   
 
   Next Class Tuesday - 6:30pm ET   
+
+
+
+Leon — 01/28/2022
+Hey @everyone 
+
+ We are talking with @blawblawLaw @goth_brooks and @Nicolas L all #100Devs Alumni in 5 minutes!
+
+ Join Us: https://twitter.com/i/spaces/1YqKDqVqrqAGV
+
+If you have questions, please ask here: slido.com with #808639
+
+
+
+
+Leon — Today at 9:33 AM
+Hey @everyone YOUR CHILL Office Hours start in 27 Minutes! on https://www.twitch.tv/learnwithleon
+
+If you have questions for office hours, ask them here: slido.com with #269935
+
+Let's review some of the past homework and then jump into any questions you may have so far!
+
+
+
+
+Leon — Today at 2:05 PM
+Hey @everyone 
+
+Thanks for another Chill Office Hours! Here are the resources I mentioned and my code from today is attached:
+
+(I'm not a doctor, use these at your own risk)
+Hand & Wrist Exercises: https://youtu.be/EiRC80FJbHU
+Full Body Stretch: https://youtu.be/SsT_go-oCcQ
+Back Exercises That Changed My Life: https://youtu.be/LT_dFRnmdGs
+
+Also, we keep talking about screen readers, so here they are in action: 
+https://youtu.be/TiP7aantnvE
+https://youtu.be/UzffnbBex6c
+
