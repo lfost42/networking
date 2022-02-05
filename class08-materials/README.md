@@ -39,4 +39,34 @@ Push?: Do Pushwork Homepage and add media queries to other layouts
 
 
 
+Leon — Yesterday at 6:51 PM
+Hey @everyone
+
+Thank you for unleashing your inner baddie and committing to write badd code! Good luck with these layouts! No stress just finesse and success. I'll hopefully see some of you later tonight to test the cs:go server (I'll do an ping) and everyone else on Sunday for office hours! 
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1489365690217754628
+
+And here are the slides: https://slides.com/leonnoel/100devs2-css-responsive-review
+
+Our last class can be found here: https://youtu.be/k8r3B0JGMt4
+
+Submit Your Homework:
+Place your 15 minutes of pain responsive in a https://codepen.io/ and submit the URLs here: https://forms.gle/AaoHzDEXm3Hjc7JL8
+
+For Homework: 
+Homework (Due Tuesday - Feb. 8th):
+Read: css-tricks.com/snippets/css/a-guide-to-flexbox
+Do: http://flexboxfroggy.com/
+Watch: Independence Day
+
+Homework (Due Thursday - Feb. 10th):
+Do: The 3 layouts we did in class
+Do: The Level Ground & Source Layouts in the homework-layout-photos
+Push?: Do Pushwork Homepage and add media queries to other layouts
+
+Office Hours Sunday - 1pm ET  
+
+ Next Class Tuesday - 6:30pm ET  
+
+
 
