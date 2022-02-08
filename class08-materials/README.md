@@ -70,3 +70,17 @@ Office Hours Sunday - 1pm ET
 
 
 
+Leon — Today at 9:32 AM
+Hey @everyone YOUR CHILL Office Hours start in 30 Minutes! on https://www.twitch.tv/learnwithleon
+
+If you have questions for office hours, ask them here: slido.com with #193453
+
+🚨  Want to join a smaller study community on Discord and did not fill out the SECOND FORM? Please answer here: https://forms.gle/fX4fNt7wmutvxjEQ6
+
+Let's review some of the past homework and then jump into any questions you may have so far!
+
+
+
+
+
+
