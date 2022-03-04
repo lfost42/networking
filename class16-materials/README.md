@@ -41,3 +41,39 @@ Don't Do - Play yo self - start early even though you have more than a week beca
 ⭐ Networking Night Tuesday - 6:30pm ET ⭐
 
 ⭐ Office Hours Sunday - 1pm ET ⭐
+
+
+
+
+
+
+Leon — Yesterday at 7:15 PM
+Hey @everyone 
+
+Thanks for jumping into Loops and for letting me go over tonight! Have a great weekend and I hope to see you on Sunday for A LOT of review and practice! 
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1499512575393820677
+
+👉🏾 Our last class on Freelancing can be found here: https://youtu.be/68Li7ukgDKg 
+
+❤️  Best Clip In This Slido Gets A Fancy Color (upvote the ones you like please): slido.com with #971361
+
+Submit Your Homework:
+Play with any of the JS and make changes? Place your javascript changes in a https://codepen.io/ and submit the URLs here: https://forms.gle/q9qvPkrH5jKgEfxBA
+
+Homework (Due Tuesday - Mar. 8th):
+Do: Setup your portfolio
+Do: Draft your proposal / contract
+
+Homework (Due Tuesday - Mar. 15th):
+Read - https://www.poetryfoundation.org/poems/51642/invictus
+Read - https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions)
+Read - http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3)
+Do - https://www.codecademy.com/learn/introduction-to-javascript (1-6)
+Watch - https://youtu.be/SWYqp7iY_Tc
+Extra Reading: https://jwiegley.github.io/git-from-the-bottom-up/
+Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important
+
+ Networking Night Tuesday - 6:30pm ET 
+
+ Office Hours Sunday - 1pm ET 
