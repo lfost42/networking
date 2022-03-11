@@ -30,3 +30,34 @@ Do - https://www.codecademy.com/learn/introduction-to-javascript (1-6)
 Watch - https://youtu.be/SWYqp7iY_Tc
 Extra Reading: https://jwiegley.github.io/git-from-the-bottom-up/
 Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important
+
+
+
+Leon — 03/08/2022
+Hey @everyone 
+
+Thanks for hanging out and getting some networking in tonight! The Remos should have auto closed, but always feel free to jump into voice channels here on Discord as well! See you all Thursday for a project night! 
+
+👉🏾 Our class on Freelancing can be found here: https://youtu.be/68Li7ukgDKg 
+
+Our last class can be found here: https://youtu.be/av6iPI_zJTU
+
+Submit Your Homework:
+Nothing To Submit Tonight - I'll ask for drafts on Thursday
+
+Homework (Due Thursday - Mar. 10th):
+Do: Draft of your portfolio
+Do: Draft of your proposal / contract
+
+Homework (Due Tuesday - Mar. 15th):
+Read - https://www.poetryfoundation.org/poems/51642/invictus
+Read - https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions)
+Read - http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3)
+Do - https://www.codecademy.com/learn/introduction-to-javascript (1-6)
+Watch - https://youtu.be/SWYqp7iY_Tc
+Extra Reading: https://jwiegley.github.io/git-from-the-bottom-up/
+Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important
+
+⭐  Project Night - Thursday 6:30pm ET  ⭐ 
+
+⭐ 🥳 ⭐ Super Review Sunday - 1pm ET ⭐ 🥳 ⭐ 
