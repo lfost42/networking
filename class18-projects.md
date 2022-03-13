@@ -57,3 +57,42 @@ Leon — Today at 3:32 PM
 
 ✅  Please check-in here: https://twitter.com/leonnoel/status/1502049287454306304
 
+
+
+
+Leon — Today at 6:35 PM
+Hey @everyone
+
+Thanks for getting some time in on your portfolios and for tackling some fun projects! Hope to see you on Sunday for SUPER REVIEW!! 
+
+
+✅ Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1502049287454306304
+
+
+👉🏾 Our last class on loops can be found here: https://youtu.be/av6iPI_zJTU
+
+
+:pikahello: Submit your funnest project here: slido.com with #961517
+
+:pikahello: Submit your funnest portfolio here: slido.com with #335386
+
+
+Submit Your Homework:
+Nothing To Submit Tonight - I'll ask for everything Tuesday
+
+Homework (Due Tuesday - Mar. 15th):
+Do: Draft of your portfolio
+Do: Draft of your proposal / contract
+Read - https://www.poetryfoundation.org/poems/51642/invictus
+Read - https://github.com/bpesquet/thejsway (3, 2, 1... Code! through Write Functions)
+Read - http://eloquentjavascript.net/3rd_edition/ (Chapters 1 - 3)
+Do - https://www.codecademy.com/learn/introduction-to-javascript (1-6)
+Watch - https://youtu.be/SWYqp7iY_Tc
+Extra Reading: https://jwiegley.github.io/git-from-the-bottom-up/
+Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important
+
+
+⭐ 🥳 ⭐ Super Review Sunday - 1pm ET ⭐ 🥳 ⭐
+
+⭐ Next Class - Tuesday 6:30pm ET ⭐
+
