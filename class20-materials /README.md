@@ -38,3 +38,40 @@ Do: https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord 
 ⭐  Next Class Tuesday - 6:30pm ET  ⭐ 
 
 ⭐ Office Hours Sunday - 1pm ET ⭐
+
+
+
+
+
+Leon — Today at 6:46 PM
+Hey @everyone
+
+Thanks for running back ARRAYS! Excited to review some more on Sunday and then jump into OBJECTS next week! BEST NEWS EVER on Tuesday!
+
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1504571048875814918
+
+
+👉🏾 Our SUPER REVIEW can be found here: https://youtu.be/AkXLGS57MS4
+
+
+Check out this amazing guide on how to sign up for codewars by our very own @blawblawLaw: https://blog.barbaralaw.me/i-want-to-do-codewars-uh-how-do-i-do-that
+
+And here's a 4min video of them walking through filtering for an 8kyu fundamentals kata and completing it: https://www.loom.com/share/015bac0dbeb343409bcd27550fa2963a
+
+
+Want to be fancy? Submit your class 20 clips here: slido.com with #388092
+
+
+Homework (Due Tuesday - Mar. 22nd):
+Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md
+Read: https://javascript.info/array-methods
+Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md
+Read: https://eloquentjavascript.net/04_data.html
+Do: Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!
+Do: https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord together)
+
+
+⭐ Next Class - Thursday 6:30pm ET ⭐
+
+⭐  Office Hours (feat. Array Review) - Sunday 1:00pm ET ⭐
