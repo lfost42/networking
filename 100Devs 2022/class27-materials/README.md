@@ -24,6 +24,36 @@ Homework due next Thursday (Apr. 14 th):
 Do: Make the cocktailDB api work with spaces between the names!
 Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis)
 Do: Codewars Daily!
+Do: Anki Daily!
+
+Want to push?
+Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB
+Do: Make the NASA API handle all the data types including video
+Do: Add an API to your portfolio website
+Do: A 7kyu Codewars
+
+
+Next Class Thursday - 6:30pm ET
+
+No Office Hours Sunday - Due To Holiday 
+
+
+
+
+Leon — Today at 7:05 PM
+Hey @everyone 
+
+🙏🏾 Thanks for going deeper into building with APIs! Hope you are able to run this one back and pick up bits / bobs to use for your homework! 
+
+✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1513992949884809219
+
+👉🏾  Our Microsoft Sponsored Class on Git & Github can be found here: https://youtu.be/UpsonO_vBNk
+
+
+Homework due next Thursday (Apr. 14 th):
+Do: Make the cocktailDB api work with spaces between the names!
+Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis)
+Do: Codewars Daily!
 Do: Anki Daily! 
 
 
@@ -37,3 +67,5 @@ Do: A 7kyu Codewars
 Next Class Thursday - 6:30pm ET
 
 No Office Hours Sunday - Due To Holiday 
+
+Todays Solutions Attached!
