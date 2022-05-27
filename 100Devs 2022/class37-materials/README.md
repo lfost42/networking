@@ -1,31 +1,22 @@
-# 100Devs Class 36
+# 100Devs Class 37
 
 Leon — Today at 2:31 PM
 Hey @everyone 
 
-Come dive deeper into the backend! We are tackling the Event Loop, Stacks, Queues, and a bunch of other important topics! Then we are getting some practice in together! 
+Let's review the Node Code from last class and then build our first Fullstack App together! Quick stream and then Project Night!
 
-🚂 Let's keep this fullstack train moving! 
+:pikahello: Class-37 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
 
-
-:pikahello: Class-36 of #100Devs starts in 60 minutes (6:30pm ET) live on Twitch: https://leonnoel.com/twitch
-
-
-✅ Please check-in by liking and retweeting this tweet before class: https://twitter.com/leonnoel/status/1529213324633657345
-
-
-Here are the slides if you would like to follow along live: https://slides.com/d/oXfYRgw/live
-
-And here is the regular deck: https://slides.com/leonnoel/100devs2-fancy-js-terms-and-node
-
-
-👉🏾 Our first Node Class can be found here: https://youtu.be/IUCnAhr61pg
-
+No checkin! 
 
 Here are the links to our classrooms for working on the project: 
 https://live.remo.co/e/100devs-networking-night-group-0
 https://live.remo.co/e/100devs-networking-night-group-0-1
-If Remo does not work for you, please jump into one of our Discord Voice Channels! 
+If Remo does not work for you, please jump into one of our Discord Voice Channels!
+
+
+👉🏾 Our first Node Class can be found here: https://youtu.be/IUCnAhr61pg
+ 
 
 Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
 
@@ -35,15 +26,12 @@ Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYf
 Freelancing Submission: https://forms.gle/Ha27LvZAJsFiY2Dx7 
 Professional Links Submission: https://forms.gle/Pt7kwXndftDedcbX8
 
-🗓️ HOMEWORK DUE (Thursday):
+🗓️ HOMEWORK DUE (Tuesday):
 Do: Start prepping THE BANK
 Do: Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8
 )
 Do: Make node-backend-simple-json more readable
 Do: Make a coinflip game where the randomization happens server side
-
-
-🗓️ HOMEWORK DUE (Tuesday):
 Watch: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 Watch: https://www.youtube.com/watch?v=cCOL7MC4Pl0
 Do: https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)
@@ -51,34 +39,30 @@ Do: https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)
 
 🔥 OFFICE SUNDAY 1pm ET  🔥
 
-
+Leon — Today at 6:39 PM
 Hey @everyone 
 
-EVENT LOOP GO BRRRRRR!!!! Hope you enjoyed peaking under the hood. Good luck jumping into the muck with Node. If you get lost in the sauce please remember all the folx that want to help.  Ask questions in 👑node-help and check out @Mayanwolfe's stream from Sunday: https://www.twitch.tv/videos/1491292524
-
-
-✅  Please check-in by liking and retweeting this tweet if you have not already: https://twitter.com/leonnoel/status/1529213324633657345
+Thanks for diving back into Node and getting some work in on your first FULLSTACK PROJECT! Really excited to see what yall cooked up and Super Pumped for you to unlock your super powers next week! See you at OFFICE HOURS on SUNDAY! 
 
 
 👉🏾 Our first Node Class can be found here: https://youtu.be/IUCnAhr61pg
+ 
 
+Here is the link to the checklist: https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg
+
+Here is the link to THE BANK: https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c
 
 ⭐️ HOMEWORK SUBMISSION:
 Freelancing Submission: https://forms.gle/Ha27LvZAJsFiY2Dx7 
 Professional Links Submission: https://forms.gle/Pt7kwXndftDedcbX8
 
-🗓️ HOMEWORK DUE (Thursday):
+🗓️ HOMEWORK DUE (Tuesday):
 Do: Start prepping THE BANK
 Do: Complete Your Professional Links (https://forms.gle/Pt7kwXndftDedcbX8
 )
 Do: Make node-backend-simple-json more readable
 Do: Make a coinflip game where the randomization happens server side
-
-
-🗓️ HOMEWORK DUE (Tuesday):
 Watch: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 Watch: https://www.youtube.com/watch?v=cCOL7MC4Pl0
 Do: https://zellwk.com/blog/crud-express-mongodb/ (SUPER IMPORTANT)
- 
 
-🔥 OFFICE SUNDAY 1pm ET  🔥
