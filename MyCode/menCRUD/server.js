@@ -14,7 +14,7 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
 		app.use(bodyParser.urlencoded({ extended: true }))
 
 		app.get('/', (req, res) => {
-			res.sendFile(__dirname + '/index.html')
+			res.render('index')
 			db.collection('quotes').find().toArray()
 				.then(quotes => {
 					res.render('index.ejs', { quotes: quotes })
