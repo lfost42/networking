@@ -9,8 +9,10 @@ MongoClient.connect(connectionString, { useUnifiedTopology: true })
 		console.log('Connected to Database')
 		const db = client.db('star-wars')
 		const quotesCollection = db.collection('quotes')
+
 		app.set('view engine', 'ejs')
 		app.use(bodyParser.urlencoded({ extended: true }))
+
 		app.get('/', (req, res) => {
 			res.sendFile(__dirname + '/index.html')
 			db.collection('quotes').find().toArray()
