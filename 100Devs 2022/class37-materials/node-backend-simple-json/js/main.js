@@ -7,7 +7,7 @@ async function makeReq(){
   const data = await res.json()
 
   console.log(data);
-  document.querySelector("#personName").textContent = data.name
+  document.querySelector("#personName").textContent = data.guess
   document.querySelector("#personStatus").textContent = data.status
-  document.querySelector("#personOccupation").textContent = data.currentOccupation
+  // document.querySelector("#personOccupation").textContent = data.currentOccupation
 }
