@@ -1,10 +1,10 @@
 {
   "name": "markdown-blog",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "devstart": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -17,11 +17,12 @@
     "jsdom": "^19.0.0",
     "marked": "^4.0.16",
     "method-override": "^3.0.0",
-    "mongoose": "^6.3.4",
+    "mongoose": "^6.3.5",
     "nodemon": "^2.0.16",
     "slugify": "^1.6.5"
   },
   "devDependencies": {
     "dotenv": "^16.0.1"
-  }
+  },
+  "description": ""
 }
