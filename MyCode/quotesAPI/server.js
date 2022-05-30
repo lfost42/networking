@@ -11,7 +11,7 @@ db.once('open', () => console.log('Connected to Database'))
 
 app.use(express.json())
 
-const subscribersRouter = require('./routes/subscribers.js')
-app.use('/subscribers', subscribersRouter)
+const quotesRouter = require('./routes/quotes.js')
+app.use('/quotes', quotesRouter)
 
 app.listen(3000, () => console.log('Server Started'))

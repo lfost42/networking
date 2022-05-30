@@ -1,0 +1,24 @@
+GET http://localhost:3000/quotes
+
+###
+GET http://localhost:3000/quotes/629545b13305da88cb730164
+
+###
+POST http://localhost:3000/quotes
+Content-Type: application/json
+
+{
+	"name": "Yoda",
+	"quote": "Always pass on what you have learned."
+}
+
+###
+DELETE http://localhost:3000/quotes/629545b13305da88cb730164
+
+###
+PATCH http://localhost:3000/quotes/629545b13305da88cb730164
+Content-Type: application/json
+
+{
+	"name": "Jane Do"
+}
