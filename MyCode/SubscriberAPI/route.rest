@@ -1,0 +1,24 @@
+GET http://localhost:3000/subscribers
+
+###
+GET http://localhost:3000/subscribers/629545b13305da88cb730164
+
+###
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+	"name": "Test Add",
+	"subscribed": "My List"
+}
+
+###
+DELETE http://localhost:3000/subscribers/6295378d083405bb4bd5c1bf
+
+###
+PATCH http://localhost:3000/subscribers/629545b13305da88cb730164
+Content-Type: application/json
+
+{
+	"name": "Jane Do"
+}
