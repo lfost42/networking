@@ -29,7 +29,7 @@ class App extends Tasks {
                             color="primary"
                             variant="outlined"
                             type="submit">
-                            Add task
+                            Add
                         </Button>
                     </form>
                     <div>
