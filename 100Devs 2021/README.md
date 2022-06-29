@@ -1,5 +1,0 @@
-# 100Devs 2021
-
-I'm following the 2021 lectures because I only have time on the weekends to work on 100Devs. This lets me do the following week's worth of work and assignments and then turn in the homework on the due dates. I watch the 2022 lectures as much as I can though I'm on the west coast so they start while I'm at work and some of the lectures happen when I'm driving home so this method works with me and doesn't make me feel like I'm behind or that I'm missing anything. 
-
-It also lets me practice spaced repetition by going into #homework-help and answering questions when everyone else is attempting to complete the homework. 
