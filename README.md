@@ -6,7 +6,7 @@
 Network Topologies  
 * Note: work in progress, completed labs will be updated with a &#9745;  
 
-&#9744; [Office Network Design and Implementation](modules/1netplus/networktopolgies/office/README.md)  
+&#9744; [Office Network Design and Implementation](modules/1netplus/networktopologies/office/README.md)  
 &#9744; [Setting Up a Guest Wireless Network](modules/1netplus/networktopologies/guest/README.md)  
 &#9744; [Static Routing](modules/1netplus/networktopologies/static/README.md)  
 &#9744; [Quality of Service (QoS) for VoIP Traffic](modules/1netplus/networktopologies/quality/README.md)  
