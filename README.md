@@ -1,16 +1,13 @@
-# My Path to CCNA
+# My Network Notes
 
 ![My App](./app.png)
 
-## Network Topologies
-
---- Completed Labs ---  
-Please check back later, I'm just setting up this repo.  
-
---- Lab Templates ---  
-Office Network Design and Implementation [Lab](.modules/1netplus/networktopologies/office/readme.md)  
-Setting Up a Guest Wireless Network [Lab](.modules/1netplus/networktopologies/guest/readme.md)  
-Static Routing [Lab](.modules/1netplus/networktopologies/static/readme.md)  
-Quality of Service (QoS) for VoIP Traffic [Lab](.modules/1netplus/networktopologies/quality/readme.md)  
-VLANs for Guest and Corporate Networks [Lab](.modules/1netplus/networktopologies/vlans/readme.md)  
-Radius Server for Wireless AUthentication [lab](.modules/1netplus/networktopologies/radius/readme.md)  
+## Packet Tracer Labs for compTIA Network+
+Network Topologies  
+* Note: work in progress, completed labs will be updated with a &#9745;  
+&#9744; [Office Network Design and Implementation](.modules/1netplus/networktopologies/office/readme.md)  
+&#9744; [Setting Up a Guest Wireless Network](.modules/1netplus/networktopologies/guest/readme.md)  
+&#9744; [Static Routing](.modules/1netplus/networktopologies/static/readme.md)  
+&#9744; [Quality of Service (QoS) for VoIP Traffic](.modules/1netplus/networktopologies/quality/readme.md)  
+&#9744; [VLANs for Guest and Corporate Networks](.modules/1netplus/networktopologies/vlans/readme.md)  
+&#9744; [Radius Server for Wireless Authentication](.modules/1netplus/networktopologies/radius/readme.md)  
