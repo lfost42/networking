@@ -1,4 +1,4 @@
-# My Network Notes
+# Network Notes
 
 ![My App](./app.png)
 
