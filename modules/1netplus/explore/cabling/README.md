@@ -15,7 +15,7 @@ Note: Recall that you can right click the switch and the patch panel, select Ins
 c.     Use the following table to finish the connections between the Patch Panel0 and Office-SW-1.  
 
 | | |
-| | |
+| --- | --- |
 | Office-SW1 | Patch Panel0 |
 | G1/0/13 | Jack13 |
 | G1/0/14 | Jack14 |
