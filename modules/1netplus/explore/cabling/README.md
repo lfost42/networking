@@ -3,7 +3,7 @@ Install a patch panel and a wall mount to connect network devices in the office 
 
 ### Walkthrough
 
-### Part 1
+### Part 1: Install a Patch Panel in the Wiring Closet
 #### Step 1: Install a patch panel in the Rack  
 a.     Click the Equipment Cabinet to access a simulated Wiring Closet.  
 b.     To install a patch panel, click Connections in the Device-Type Selection Box, and then click Structured Cabling.  
@@ -47,7 +47,15 @@ f.      Repeat for the rest of the available punchdowns on Wall Mount0.
 | Punchdown3 | Punchdown15 | 
 | Punchdown4 | Punchdown16 | 
   
-g.     Connect the PC Office-Admin and Printer0 to any available jacks in the wall mount using Copper Straight-Through cables. After a minute or two, both devices will receive IP addressing information from the DHCP service running on the Office-Server inside the Equipment Closet.  
+g.     Connect the PC Office-Admin and Printer0 to any available jacks in the wall mount using Copper Straight-Through cables. After a minute or two, both devices will receive IP addressing information from the DHCP service running on the Office-Server inside the Equipment Closet. 
+
+---  
+In Office-Admin, navigate to Desktop >> IP Configuration  
+Enable DHCP  
+When IP address is assigned, close and switch to Web Browser  
+Naviage to office.srv to confirm connection  
+---  
+
 h.     Verify connectivity by navigating to the web site http://office.srv. Click Office-Admin > Desktop > Web Browser. Enter office.srv in the URL field. This may take up to a minute. You can click Go to refresh the web page request.  
 
 #### Step 2: Organize the cables.  
@@ -81,10 +89,18 @@ Note: For accurate grading, make sure the name of the wall mount is Wall Mount1.
 | Punchdown4 | Punchdown24 | 
 
 c.     Connect the Office-User PC to your new wall mount.  
+
+---  
+In Office-Admin, navigate to Desktop >> IP Configuration  
+Enable DHCP  
+When IP address is assigned, close and switch to Web Browser  
+Naviage to office.srv to confirm connection  
+---  
+
 d.     After a minute or two, verify the Office-User PC received IP addressing information and then verify connectivity to the web site office.srv.  
 e.     If desired, create bend points in the cables and organize them.  
 
 ### Notes
-
+At first, I attempted to configure DHCP via Config. When this didn't work, I had to start over and configure it through the Desktop config. Hello, Packet Tracer!
 
 
