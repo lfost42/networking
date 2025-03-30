@@ -39,7 +39,7 @@
 [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
 [11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
 [11.2.4 Configure Initial Router Settings](modules/1netplus/devices/router/README.md)  
-[11.3.6 Configure SSH](modules/1netplus/devices/ssg/README.md)  
+[11.3.6 Configure SSH](modules/1netplus/devices/ssh/README.md)  
 [11.4.4 Build a Switch and Router Network](modules/1netplus/devices/switch/README.md)  
 [11.4.5 Troubleshoot Default Gateway Issues](modules/1netplus/devices/gateway/README.md)  
 [12.2.6 Verify IPv4 and IPv6 Addressing](modules/1netplus/devices/verify/README.md)  
