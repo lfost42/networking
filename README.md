@@ -70,7 +70,7 @@
 [4.5.12 Configure Extended ACLs Scenario 1](modules/1netplus/defense/scen1/README.md)  
 [4.5.13 Configure Extended ACLs Scenario 2](modules/1netplus/defense/scen2/README.md)  
 [4.6.5 Configure IP ACLs to Mitigate Attacks](modules/1netplus/defense/attacks/README.md)  
-[4.7.4 Configure IPv6 ACLs](modules/1netplus/defense/naipv6med/README.md)  
+[4.7.4 Configure IPv6 ACLs](modules/1netplus/defense/ipv6/README.md)  
 [6.3.11 Configure a ZPF](modules/1netplus/defense/zpf/README.md)  
 [10.3.10 Explore a NetFlow Implementation](modules/1netplus/defense/netflow/README.md)  
 [10.3.11 Logging from Multiple Sources](modules/1netplus/defense/multiple/README.md)  
