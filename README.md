@@ -8,9 +8,9 @@
 ### [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)  
 
 * Module 1: Set Up Your Small Office Network  
-&#9745; [1.1.4 Packet Tracer - Create Realistic Structured Cabling in the Physical Workspace and Cabling Devices in a Rack](modules/1netplus/explore/cabling/README.md)  
-&#9745; [1.1.6 Packet Tracer - Connect Devices using Wireless Technologies](modules/1netplus/explore/wireless/README.md)  
-&#9745; [1.1.8 Packet Tracer - Explore Device Configuration Using the CLI (console)](modules/1netplus/explore/cli/README.md)  
+✅ [1.1.4 Packet Tracer - Create Realistic Structured Cabling in the Physical Workspace and Cabling Devices in a Rack](modules/1netplus/explore/cabling/README.md)  
+✅ [1.1.6 Packet Tracer - Connect Devices using Wireless Technologies](modules/1netplus/explore/wireless/README.md)  
+✅ [1.1.8 Packet Tracer - Explore Device Configuration Using the CLI (console)](modules/1netplus/explore/cli/README.md)  
 
 * Module 2: Manage and Monitor Your Branch Office Network  
 &#9744; [2.0.3 Packet Tracer - Examine Packets in the Small Office ](modules/1netplus/explore/packets/README.md)   
