@@ -3,9 +3,11 @@
 ![My App](./app.png)
 
 ## Packet Tracer Labs for compTIA Network+  
-### ✅ [Getting Started with Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer)  
 
-### ✅ [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)  
+### ✅ [Getting Started with Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer)
+➡️ [2.1.2 Create a Simple Network](modules/1netplus/stared/README.md)  
+
+### ✅ [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)
 ➡️ [1.1.4 Cabling in the Physical Workspace and in a Rack](modules/1netplus/explore/cabling/README.md)  
 ➡️ [1.1.6 Connect Devices using Wireless Technologies](modules/1netplus/explore/wireless/README.md)  
 ➡️ [1.1.8 Explore Device Configuration Using the CLI (console)](modules/1netplus/explore/cli/README.md)  
@@ -16,7 +18,7 @@
 
 ## TODO List
 
-### 📕 [Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)  
+### 📕 [Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 [4.4.4 Configure a Wireless Router and Client](modules/1netplus/basics/router/README.md)  
 [8.1.3 Connect to a Web Server](modules/1netplus/basics/web/README.md)  
 [11.2.3 Configure DHCP on a Wireless Router](modules/1netplus/basics/dhcp/README.md)  
@@ -31,7 +33,7 @@
 [17.1.3 Use the ipconfig Command](modules/1netplus/basics/ipconfig/README.md)  
 [17.1.6 Use the ping Command](modules/1netplus/basics/ping/README.md)  
 
-### 📕 [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)  
+### 📕 [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
 [7.1.9 Examine the ARP Table](modules/1netplus/addressing/ipv6/README.md)  
 [10.2.6 Navigate the IOS](modules/1netplus/addressing/ios/README.md)  
 [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/addressing/show/README.md)  
@@ -44,12 +46,12 @@
 [12.2.7 Use Ping and Traceroute to Test Network Connectivity](modules/1netplus/addressing/ping/README.md)  
 [12.3.1 Use ICMP to Test and Correct Network Connectivity](modules/1netplus/addressing/icmp/README.md)  
 
-### 📕 [Network Addressing and Basic Troubleshooting](https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US)  
+### 📕 [Network Addressing and Basic Troubleshooting](https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US)
 [4.4.6 Configure IPv6 Addressing](modules/1netplus/addressing/ipv6/README.md)  
 [5.1.4 IPv6 Neighbor Discovery](modules/1netplus/addressing/neighbor/README.md)  
 [7.3.3 Troubleshoot a Wireless Connection](modules/1netplus/addressing/wireless/README.md)  
 
-### 📕 [Network Support and Security](https://www.netacad.com/courses/network-support-security?courseLang=en-US)  
+### 📕 [Network Support and Security](https://www.netacad.com/courses/network-support-security?courseLang=en-US)
 [1.2.7 Connect a Network Based on a Network Diagram](modules/1netplus/security/connect/README.md)  
 [1.2.12 Use CDP to Map a Network](modules/1netplus/security/cdp/README.md)  
 [1.2.13 Document the Network](modules/1netplus/security/doc/README.md)  
