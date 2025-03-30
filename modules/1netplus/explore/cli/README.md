@@ -1,4 +1,4 @@
-## Packet Tracer - Explore Device Configuration Using the CLI (console)
+## Explore Device Configuration Using the CLI (console)
 Use terminal emulation software to connect to the console of a device for the purpose of updating the configuration.
 
 A new switch, Office-SW2, is being added to the network. Before placing a networking device into a network, the device must be configured and tested. Many types of networking devices, such as switches and routers, may not be preconfigured with enough information to make them accessible through an Ethernet or wireless connection. It may be necessary to load an initial configuration using another method. A console connection and a terminal emulation application provide a convenient way to access the device without having to be on an active network.

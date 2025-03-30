@@ -5,7 +5,7 @@
 ## Packet Tracer Labs for compTIA Network+  
 
 ### ✅ [Getting Started with Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer)
-➡️ [2.1.2 Create a Simple Network](modules/1netplus/stared/README.md)  
+➡️ [2.1.2 Create a Simple Network](modules/1netplus/started/README.md)  
 
 ### ✅ [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)
 ➡️ [1.1.4 Cabling in the Physical Workspace and in a Rack](modules/1netplus/explore/cabling/README.md)  
