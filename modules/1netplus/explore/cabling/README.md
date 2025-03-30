@@ -2,13 +2,16 @@
 Install a patch panel and a wall mount to connect network devices in the office to the equipment in the wiring closet.  
 
 ### Walkthrough
-Step 1: Install a patch panel in the Rack  
+
+### Part 1
+#### Step 1: Install a patch panel in the Rack  
 a.     Click the Equipment Cabinet to access a simulated Wiring Closet.  
 b.     To install a patch panel, click Connections in the Device-Type Selection Box, and then click Structured Cabling.  
 c.     In the Device-Specific Selection Box, click the first option, which is Copper Patch Panel.  
 d.     Click a desired location in the Rack to install the patch panel in the rack.  
 Note: For accurate grading, make sure the name of the patch panel is Patch Panel0.  
-Step 2: Connect the Office-SW1 to the patch panel.  
+
+#### Step 2: Connect the Office-SW1 to the patch panel.  
 a.     From the Cable Pegboard, select a Copper Straight-Through cable.  
 b.     On the switch Office-SW1, click the GigabitEthernet 1/0/13 port. Now locate and click Jack13 on the Patch Panel0.  
 Note: Recall that you can right click the switch and the patch panel, select Inspect Front, and then zoom in to better locate the desired ports. You can also use the global Zoom In tool on the tool bar.  
@@ -27,7 +30,7 @@ e.     If you do not like the cables dangling, you can organize them. Right-clic
 f.      Click Back level (Alt-Left) to return to the Office.  
 
 ### Part 2: Attach a Wall Mount in the Office
-Step 1: Install a wall mount.  
+#### Step 1: Install a wall mount.  
 a.     To install a wall mount, click Connections in the Device-Type Selection Box, and then click Structured Cabling.  
 b.     In the Device-Specific Selection Box, click Copper Wall Mount.  
 c.     Click the desired location on the wall next to the Equipment Cabinet.  
@@ -47,7 +50,7 @@ f.      Repeat for the rest of the available punchdowns on Wall Mount0.
 g.     Connect the PC Office-Admin and Printer0 to any available jacks in the wall mount using Copper Straight-Through cables. After a minute or two, both devices will receive IP addressing information from the DHCP service running on the Office-Server inside the Equipment Closet.  
 h.     Verify connectivity by navigating to the web site http://office.srv. Click Office-Admin > Desktop > Web Browser. Enter office.srv in the URL field. This may take up to a minute. You can click Go to refresh the web page request.  
 
-Step 2: Organize the cables.  
+#### Step 2: Organize the cables.  
 In the Physical mode, you can organize the cables so that they are spanning across the entire room.  
 a.     Right-click the desired cable, select Create BendPoint.  
 b.     Drag the black square to the wall. Continue to create bendpoints and drag the bend points into the walls or floor until the cable no longer goes across the middle of the room  
