@@ -34,7 +34,7 @@
 [17.1.6 Use the ping Command](modules/1netplus/basics/ping/README.md)  
 
 ### 📕 [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
-[7.1.9 Examine the ARP Table](modules/1netplus/devices/ipv6/README.md)  
+[7.1.9 Examine the ARP Table](modules/1netplus/devices/arp/README.md)  
 [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
 [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
 [11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
