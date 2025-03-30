@@ -64,5 +64,6 @@ c.     Click Play at any time to stop the simulation.
 d.     To delete the complex PDU, double click Delete in the Event Simulation pane at the bottom of the Packet Tracer window.  
 
 ### Notes
+This was more exploring the packet simulation feature. This was not covered in CertMaster so I spent more time on this one. 
 
 [BACK TO MAIN](https://github.com/lfost42/networking)
