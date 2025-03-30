@@ -19,6 +19,7 @@
 ## TODO List
 
 ### 📕 [Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
+
 [4.4.4 Configure a Wireless Router and Client](modules/1netplus/basics/router/README.md)  
 [8.1.3 Connect to a Web Server](modules/1netplus/basics/web/README.md)  
 [11.2.3 Configure DHCP on a Wireless Router](modules/1netplus/basics/dhcp/README.md)  
@@ -34,6 +35,7 @@
 [17.1.6 Use the ping Command](modules/1netplus/basics/ping/README.md)  
 
 ### 📕 [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
+
 [7.1.9 Examine the ARP Table](modules/1netplus/devices/arp/README.md)  
 [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
 [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
@@ -47,11 +49,13 @@
 [12.3.1 Use ICMP to Test and Correct Network Connectivity](modules/1netplus/devices/icmp/README.md)  
 
 ### 📕 [Network Addressing and Basic Troubleshooting](https://www.netacad.com/courses/network-addressing-and-basic-troubleshooting?courseLang=en-US)
+
 [4.4.6 Configure IPv6 Addressing](modules/1netplus/addressing/ipv6/README.md)  
 [5.1.4 IPv6 Neighbor Discovery](modules/1netplus/addressing/neighbor/README.md)  
 [7.3.3 Troubleshoot a Wireless Connection](modules/1netplus/addressing/wireless/README.md)  
 
 ### 📕 [Network Support and Security](https://www.netacad.com/courses/network-support-security?courseLang=en-US)
+
 [1.2.7 Connect a Network Based on a Network Diagram](modules/1netplus/security/connect/README.md)  
 [1.2.12 Use CDP to Map a Network](modules/1netplus/security/cdp/README.md)  
 [1.2.13 Document the Network](modules/1netplus/security/doc/README.md)  
@@ -59,3 +63,14 @@
 [3.2.14 Configure Access Control](modules/1netplus/security/access/README.md)  
 [3.6.16 Configure Basic Wireless Security](modules/1netplus/security/basic/README.md)  
 
+### 📕 [Network Defense](https://www.netacad.com/courses/network-defense?courseLang=en-US)
+
+[4.5.5 Configure Named Standard IPv4 ACLs](modules/1netplus/defense/named/README.md)  
+[4.5.6 Configure Numbered Standard IPv4 ACLs](modules/1netplus/defense/numbered/README.md)  
+[4.5.12 Configure Extended ACLs Scenario 1](modules/1netplus/defense/scen1/README.md)  
+[4.5.13 Configure Extended ACLs Scenario 2](modules/1netplus/defense/scen2/README.md)  
+[4.6.5 Configure IP ACLs to Mitigate Attacks](modules/1netplus/defense/attacks/README.md)  
+[4.7.4 Configure IPv6 ACLs](modules/1netplus/defense/naipv6med/README.md)  
+[6.3.11 Configure a ZPF](modules/1netplus/defense/zpf/README.md)  
+[10.3.10 Explore a NetFlow Implementation](modules/1netplus/defense/netflow/README.md)  
+[10.3.11 Logging from Multiple Sources](modules/1netplus/defense/multiple/README.md)  
