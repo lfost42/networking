@@ -35,7 +35,8 @@ d.     In the Device-Type Selection Box, click Connections, and then click Coppe
 e.     Click Wall Mount0 and select PunchDown1. Then click the Equipment Cabinet (Wiring Closet) and select Rack > Patch Panel0 > Punchdown13.  
 f.      Repeat for the rest of the available punchdowns on Wall Mount0.  
   
-|---|---|
+|   |   |
+| --- | --- |
 | Wall Mount (Next to Equipment Cabinet) | Patch Panel | 
 | Punchdown1 | Punchdown13 | 
 | Punchdown2 | Punchdown14 | 
@@ -55,7 +56,8 @@ Part 3: Connect an Additional Wall Mount and Cables
 Now that you have connected AdminOffice and Printer0 to the network, connect more cables to the patch panel, add another wall mount, and connect the Office-User PC.  
 a.     Return to the Equipment Closet and make the following connections:  
 
-|---|---|
+|   |   |
+| --- | --- |
 | Office-SW1 | Patch Panel0 | 
 | G1/0/21 | Jack21 | 
 | G1/0/22 | Jack22 | 
@@ -65,7 +67,8 @@ a.     Return to the Equipment Closet and make the following connections:
 b.     In the Office, add another Wall Mount next to the window and connect the wall mount to the patch panel using the following connections.  
 Note: For accurate grading, make sure the name of the wall mount is Wall Mount1.  
 
-|---|---|
+|   |   | 
+| --- | --- |
 | New Wall Mount (Next to Window) | Patch Panel | 
 | Punchdown1| Punchdown21 | 
 | Punchdown2 | Punchdown22 | 
