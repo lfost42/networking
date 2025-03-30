@@ -16,11 +16,9 @@
 ➡️ [2.1.3 Monitor Your Network Using a Network Controller](modules/1netplus/explore/monitor/README.md)  
 ➡️ [2.1.5 Manage and Configure your Network using a Network Controller](modules/1netplus/explore/manage/README.md)  
 
-## TODO List
+### ✅ [Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 
-### 📕 [Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
-
-[4.4.4 Configure a Wireless Router and Client](modules/1netplus/basics/router/README.md)  
+➡️ [4.4.4 Configure a Wireless Router and Client](modules/1netplus/basics/router/README.md)  
 [8.1.3 Connect to a Web Server](modules/1netplus/basics/web/README.md)  
 [11.2.3 Configure DHCP on a Wireless Router](modules/1netplus/basics/dhcp/README.md)  
 [12.2.2 Examine NAT on a Wireless Router](modules/1netplus/basics/nat/README.md)  
@@ -33,6 +31,8 @@
 [16.6.4 Use Telnet and SSH](modules/1netplus/basics/telnet/README.md)  
 [17.1.3 Use the ipconfig Command](modules/1netplus/basics/ipconfig/README.md)  
 [17.1.6 Use the ping Command](modules/1netplus/basics/ping/README.md)  
+
+## TODO List
 
 ### 📕 [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
 
