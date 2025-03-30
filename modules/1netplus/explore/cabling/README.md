@@ -56,7 +56,8 @@ a.     Right-click the desired cable, select Create BendPoint.
 b.     Drag the black square to the wall. Continue to create bendpoints and drag the bend points into the walls or floor until the cable no longer goes across the middle of the room  
 Using the bendpoints has the same effects as running the cables into the walls in an office.  
 c.     Repeat the steps until you are satisfied with the results.  
-Part 3: Connect an Additional Wall Mount and Cables  
+
+### Part 3: Connect an Additional Wall Mount and Cables  
 Now that you have connected AdminOffice and Printer0 to the network, connect more cables to the patch panel, add another wall mount, and connect the Office-User PC.  
 a.     Return to the Equipment Closet and make the following connections:  
 
