@@ -1,14 +1,8 @@
 ## Lab Template
+Status: draft, please check back later ...
 
 ### Concepts
 
-### Objective
-
 ### Walkthrough
 
-### Assessment
-
 ### Notes
-
-
-
