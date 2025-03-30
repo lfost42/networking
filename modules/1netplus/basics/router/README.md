@@ -41,6 +41,9 @@ a.     Click Office PC > Desktop tab, and then IP Configuration.
 b.     Click DHCP. DHCP will automatically configure the Office PC to be on the same IP network as the Home Wireless Router.  
 c.     After a brief delay, the values for the IP Configuration should automatically update. The IPv4 address should start with the number 192. If it does not, click Fast Forward Time, which is just below the network topology in the lower left-hand corner. This will speed up the simulation of DHCP.  
 d.     Make note of the address for the default gateway. The default gateway is the device that provides devices on the home network with access to outside networks, such as the internet. In this case, the default gateway address is the address of the Home Wireless Router.  
+
+`192.168.0.1`
+
 e.     Keeping the Office PC window open, close the IP Configuration window, and then click Web Browser. Enter the IP address of the Home Wireless Router (the default gateway address) into the URL box and click Go.  
 f.      Newly installed home routers are configured with default credentials. Enter admin for both the User Name and Password. You should now see the GUI for the Home Wireless Router appear and are ready to configure Natsumi’s network. Adjust the window size, as necessary, to see more of the interface.
 
@@ -104,5 +107,7 @@ b.     Close the IP Configuration window and open the Web Browser. Verify that t
 You have now completed connecting network devices, configuring the router and wireless LAN, and configuring hosts to connect to the network. All devices should be able to connect to the internet. Your job is done and Natsumi has offered to cook dinner for you as a reward for your help.  
 
 ### Notes
+
+No notes for this one, the router IP address and password. 
 
 [BACK TO MAIN](https://github.com/lfost42/networking)
