@@ -13,7 +13,7 @@
 ➡️ [8.1.3 Connect to a Web Server](modules/1netplus/basics/web/README.md)  
 ➡️ [11.2.3 Configure DHCP on a Wireless Router](modules/1netplus/basics/dhcp/README.md)  
 ➡️ [12.2.2 Examine NAT on a Wireless Router](modules/1netplus/basics/nat/README.md)  
-[13.1.3 Identify MAC and IP Addresses](modules/1netplus/basics/mac/README.md)  
+➡️ [13.1.3 Identify MAC and IP Addresses](modules/1netplus/basics/mac/README.md)  
 [14.3.3 Observe Traffic Flow in a Routed Network](modules/1netplus/basics/traffic/README.md)  
 [14.3.4 Create a LAN](modules/1netplus/basics/lan/README.md)  
 [16.1.5 The Client Interaction](modules/1netplus/basics/client/README.md)  
