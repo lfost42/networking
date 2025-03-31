@@ -7,21 +7,12 @@
 ### ✅ [Getting Started with Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer)
 ➡️ [2.1.2 Create a Simple Network](modules/1netplus/started/README.md)  
 
-### ✅ [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)
-➡️ [1.1.4 Cabling in the Physical Workspace and in a Rack](modules/1netplus/explore/cabling/README.md)  
-➡️ [1.1.6 Connect Devices using Wireless Technologies](modules/1netplus/explore/wireless/README.md)  
-➡️ [1.1.8 Explore Device Configuration Using the CLI (console)](modules/1netplus/explore/cli/README.md)  
-➡️ [2.0.3 Examine Packets in the Small Office ](modules/1netplus/explore/packets/README.md)  
-➡️ [2.0.7 Edit Topologies](modules/1netplus/explore/topologies/README.md)  
-➡️ [2.1.3 Monitor Your Network Using a Network Controller](modules/1netplus/explore/monitor/README.md)  
-➡️ [2.1.5 Manage and Configure your Network using a Network Controller](modules/1netplus/explore/manage/README.md)  
-
 ### ✅ [Networking Basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 
 ➡️ [4.4.4 Configure a Wireless Router and Client](modules/1netplus/basics/router/README.md)  
 ➡️ [8.1.3 Connect to a Web Server](modules/1netplus/basics/web/README.md)  
 ➡️ [11.2.3 Configure DHCP on a Wireless Router](modules/1netplus/basics/dhcp/README.md)  
-[12.2.2 Examine NAT on a Wireless Router](modules/1netplus/basics/nat/README.md)  
+➡️ [12.2.2 Examine NAT on a Wireless Router](modules/1netplus/basics/nat/README.md)  
 [13.1.3 Identify MAC and IP Addresses](modules/1netplus/basics/mac/README.md)  
 [14.3.3 Observe Traffic Flow in a Routed Network](modules/1netplus/basics/traffic/README.md)  
 [14.3.4 Create a LAN](modules/1netplus/basics/lan/README.md)  
@@ -31,6 +22,15 @@
 [16.6.4 Use Telnet and SSH](modules/1netplus/basics/telnet/README.md)  
 [17.1.3 Use the ipconfig Command](modules/1netplus/basics/ipconfig/README.md)  
 [17.1.6 Use the ping Command](modules/1netplus/basics/ping/README.md)  
+
+### ✅ [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)
+➡️ [1.1.4 Cabling in the Physical Workspace and in a Rack](modules/1netplus/explore/cabling/README.md)  
+➡️ [1.1.6 Connect Devices using Wireless Technologies](modules/1netplus/explore/wireless/README.md)  
+➡️ [1.1.8 Explore Device Configuration Using the CLI (console)](modules/1netplus/explore/cli/README.md)  
+➡️ [2.0.3 Examine Packets in the Small Office ](modules/1netplus/explore/packets/README.md)  
+➡️ [2.0.7 Edit Topologies](modules/1netplus/explore/topologies/README.md)  
+➡️ [2.1.3 Monitor Your Network Using a Network Controller](modules/1netplus/explore/monitor/README.md)  
+➡️ [2.1.5 Manage and Configure your Network using a Network Controller](modules/1netplus/explore/manage/README.md)  
 
 ## TODO List
 
