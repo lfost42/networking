@@ -18,6 +18,17 @@ This would be a fantastic introduction to networking but if you already had an i
 ➡️ [14.3.4 Create a LAN](modules/1netplus/basics/lan/README.md)  
 ➡️ [16.5.3 Use FTP Services](modules/1netplus/basics/ftp/README.md)  
 
+### ✅ [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
+
+I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 Use ICMP to Test and Correct Network Connectivity which are guided activities. 
+
+➡️ [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
+➡️ [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
+➡️ [11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
+➡️ [11.2.4 Configure Initial Router Settings](modules/1netplus/devices/router/README.md) 
+➡️ [11.3.6 Configure SSH](modules/1netplus/devices/ssh/README.md)  
+➡️ [12.2.6 Verify IPv4 and IPv6 Addressing](modules/1netplus/devices/verify/README.md)  
+
 ### ✅ [Exploring Networking with Packet Tracer](https://www.netacad.com/courses/exploring-networking-cisco-packet-tracer?courseLang=en-US)
 
 ➡️ [1.1.4 Cabling in the Physical Workspace and in a Rack](modules/1netplus/explore/cabling/README.md)  
@@ -31,20 +42,6 @@ This would be a fantastic introduction to networking but if you already had an i
 ➡️ [4.4.6 Configure IPv6 Addressing](modules/1netplus/addressing/ipv6/README.md)  
 ➡️ [5.1.4 IPv6 Neighbor Discovery](modules/1netplus/addressing/neighbor/README.md)  
 ➡️ [7.3.3 Troubleshoot a Wireless Connection](modules/1netplus/addressing/wireless/README.md)  
-
-### ✅ [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
-
-➡️ [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
-➡️ [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
-➡️ [11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
-
-[11.2.4 Configure Initial Router Settings](modules/1netplus/devices/router/README.md)  
-[11.3.6 Configure SSH](modules/1netplus/devices/ssh/README.md)  
-[11.4.4 Build a Switch and Router Network](modules/1netplus/devices/switch/README.md)  
-[11.4.5 Troubleshoot Default Gateway Issues](modules/1netplus/devices/gateway/README.md)  
-[12.2.6 Verify IPv4 and IPv6 Addressing](modules/1netplus/devices/verify/README.md)  
-[12.2.7 Use Ping and Traceroute to Test Network Connectivity](modules/1netplus/devices/ping/README.md)  
-[12.3.1 Use ICMP to Test and Correct Network Connectivity](modules/1netplus/devices/icmp/README.md)  
 
 ## TODO List
 
