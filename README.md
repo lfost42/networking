@@ -22,8 +22,6 @@ This would be a fantastic introduction to networking but if you already had an i
 
 ➡️ [1.1.4 Cabling in the Physical Workspace and in a Rack](modules/1netplus/explore/cabling/README.md)  
 ➡️ [1.1.6 Connect Devices using Wireless Technologies](modules/1netplus/explore/wireless/README.md)  
-➡️ [1.1.8 Explore Device Configuration Using the CLI (console)](modules/1netplus/explore/cli/README.md)  
-➡️ [2.0.3 Examine Packets in the Small Office ](modules/1netplus/explore/packets/README.md)  
 ➡️ [2.0.7 Edit Topologies](modules/1netplus/explore/topologies/README.md)  
 ➡️ [2.1.3 Monitor Your Network Using a Network Controller](modules/1netplus/explore/monitor/README.md)  
 ➡️ [2.1.5 Manage and Configure your Network using a Network Controller](modules/1netplus/explore/manage/README.md)  
@@ -34,15 +32,12 @@ This would be a fantastic introduction to networking but if you already had an i
 ➡️ [5.1.4 IPv6 Neighbor Discovery](modules/1netplus/addressing/neighbor/README.md)  
 ➡️ [7.3.3 Troubleshoot a Wireless Connection](modules/1netplus/addressing/wireless/README.md)  
 
-## TODO List
+### ✅ [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
 
-### 📕 [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
+➡️ [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
+➡️ [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
+➡️ [11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
 
-[7.1.9 Examine the ARP Table](modules/1netplus/devices/arp/README.md)  
-[9.8.1 TCP and UDP Communications](modules/1netplus/devices/tcp/README.md)  
-[10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
-[10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
-[11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
 [11.2.4 Configure Initial Router Settings](modules/1netplus/devices/router/README.md)  
 [11.3.6 Configure SSH](modules/1netplus/devices/ssh/README.md)  
 [11.4.4 Build a Switch and Router Network](modules/1netplus/devices/switch/README.md)  
@@ -50,6 +45,8 @@ This would be a fantastic introduction to networking but if you already had an i
 [12.2.6 Verify IPv4 and IPv6 Addressing](modules/1netplus/devices/verify/README.md)  
 [12.2.7 Use Ping and Traceroute to Test Network Connectivity](modules/1netplus/devices/ping/README.md)  
 [12.3.1 Use ICMP to Test and Correct Network Connectivity](modules/1netplus/devices/icmp/README.md)  
+
+## TODO List
 
 ### 📕 [Network Support and Security](https://www.netacad.com/courses/network-support-security?courseLang=en-US)
 
