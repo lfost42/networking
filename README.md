@@ -20,7 +20,7 @@ This would be a fantastic introduction to networking but if you already had an i
 
 ### ✅ [Networking Devices and Initial Configuration](https://www.netacad.com/courses/networking-devices-and-initial-configuration?courseLang=en-US)
 
-I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 Use ICMP to Test and Correct Network Connectivity which are guided activities. 
+I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 Use ICMP to Test and Correct Network Connectivity which are guided activities. These labs were very good at helping me differentiate when to use a rollover vs straight-through cable.  
 
 ➡️ [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
 ➡️ [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
@@ -43,14 +43,12 @@ I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 
 ➡️ [5.1.4 IPv6 Neighbor Discovery](modules/1netplus/addressing/neighbor/README.md)  
 ➡️ [7.3.3 Troubleshoot a Wireless Connection](modules/1netplus/addressing/wireless/README.md)  
 
-## TODO List
+### ✅ [Network Support and Security](https://www.netacad.com/courses/network-support-security?courseLang=en-US)
 
-### 📕 [Network Support and Security](https://www.netacad.com/courses/network-support-security?courseLang=en-US)
-
-[1.2.7 Connect a Network Based on a Network Diagram](modules/1netplus/security/connect/README.md)  
-[1.2.12 Use CDP to Map a Network](modules/1netplus/security/cdp/README.md)  
-[1.2.13 Document the Network](modules/1netplus/security/doc/README.md)  
-[1.5.6 Use Documentation to Solve Issues](modules/1netplus/security/solve/README.md)  
+➡️ [1.2.7 Connect a Network Based on a Network Diagram](modules/1netplus/security/connect/README.md)  
+➡️ [1.2.12 Use CDP to Map a Network](modules/1netplus/security/cdp/README.md)  
+➡️ [1.2.13 Document the Network](modules/1netplus/security/doc/README.md)  
+📕 [1.5.6 Use Documentation to Solve Issues](modules/1netplus/security/solve/README.md)  
 [3.2.14 Configure Access Control](modules/1netplus/security/access/README.md)  
 [3.6.16 Configure Basic Wireless Security](modules/1netplus/security/basic/README.md)  
 
