@@ -1,4 +1,5 @@
-## Lab Template
+## Configure Server-Based Authentication with TACACS+ and RADIUS
+
 Status: draft, please check back later ...
 
 ### Walkthrough

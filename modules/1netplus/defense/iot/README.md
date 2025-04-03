@@ -1,4 +1,5 @@
-## Lab Template
+## Implement Physical Security with IoT Devices
+
 Status: draft, please check back later ...
 
 ### Walkthrough

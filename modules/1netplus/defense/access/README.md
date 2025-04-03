@@ -1,4 +1,5 @@
-## Lab Template
+## Configure Access Control
+
 Status: draft, please check back later ...
 
 ### Walkthrough

@@ -1,4 +1,5 @@
-## Lab Template
+## Configure Wireless Router Hardening and Security
+
 Status: draft, please check back later ...
 
 ### Walkthrough
