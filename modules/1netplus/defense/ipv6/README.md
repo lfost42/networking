@@ -1,4 +1,5 @@
-## Lab Template
+## Configure IPv6 ACLs
+
 Status: draft, please check back later ...
 
 ### Walkthrough

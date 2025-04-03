@@ -1,4 +1,5 @@
-## Lab Template
+## Configure Extended ACLs Scenario 2
+
 Status: draft, please check back later ...
 
 ### Walkthrough

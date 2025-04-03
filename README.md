@@ -50,10 +50,13 @@ I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 
 ➡️ [1.2.13 Document the Network](modules/1netplus/security/doc/README.md)  
 📕 [1.5.6 Use Documentation to Solve Issues](modules/1netplus/security/solve/README.md)  
 ➡️ [3.2.14 Configure Access Control](modules/1netplus/security/access/README.md)  
-➡️ [3.6.16 Configure Basic Wireless Security](modules/1netplus/security/basic/README.md)  
 
-### 📕 [Network Defense](https://www.netacad.com/courses/network-defense?courseLang=en-US)
+### ✅ [Network Defense](https://www.netacad.com/courses/network-defense?courseLang=en-US)
 
+[2.5.4 Packet Tracer - Configure Wireless Router Hardening and Security](modules/1netplus/defense/wireless/README.md)  
+[2.7.13 Packet Tracer - Implement Physical Security with IoT Devices](modules/1netplus/defense/iot/README.md)  
+[3.1.14 Packet Tracer - Configure Access Control](modules/1netplus/defense/access/README.md)  
+[3.4.5 Packet Tracer - Configure Server-Based Authentication with TACACS+ and RADIUS](modules/1netplus/defense/server/README.md)  
 [4.5.5 Configure Named Standard IPv4 ACLs](modules/1netplus/defense/named/README.md)  
 [4.5.6 Configure Numbered Standard IPv4 ACLs](modules/1netplus/defense/numbered/README.md)  
 [4.5.12 Configure Extended ACLs Scenario 1](modules/1netplus/defense/scen1/README.md)  

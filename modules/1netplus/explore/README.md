@@ -1,5 +1,4 @@
-## Logging from Multiple Sources
-
+## Lab Template
 Status: draft, please check back later ...
 
 ### Walkthrough

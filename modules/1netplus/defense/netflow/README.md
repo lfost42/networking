@@ -1,4 +1,5 @@
-## Lab Template
+## Explore a NetFlow Implementation
+
 Status: draft, please check back later ...
 
 ### Walkthrough
