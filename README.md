@@ -25,7 +25,7 @@ I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 
 ➡️ [10.2.6 Navigate the IOS](modules/1netplus/devices/ios/README.md)  
 ➡️ [10.3.3 Use Cisco IOS Show Commands](modules/1netplus/devices/show/README.md)  
 ➡️ [11.1.4 Implement Basic Connectivity](modules/1netplus/devices/conn/README.md)  
-➡️ [11.2.4 Configure Initial Router Settings](modules/1netplus/devices/router/README.md) 
+➡️ [11.2.4 Configure Initial Router Settings](modules/1netplus/devices/router/README.md)  
 ➡️ [11.3.6 Configure SSH](modules/1netplus/devices/ssh/README.md)  
 ➡️ [12.2.6 Verify IPv4 and IPv6 Addressing](modules/1netplus/devices/verify/README.md)  
 
@@ -49,8 +49,8 @@ I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 
 ➡️ [1.2.12 Use CDP to Map a Network](modules/1netplus/security/cdp/README.md)  
 ➡️ [1.2.13 Document the Network](modules/1netplus/security/doc/README.md)  
 📕 [1.5.6 Use Documentation to Solve Issues](modules/1netplus/security/solve/README.md)  
-[3.2.14 Configure Access Control](modules/1netplus/security/access/README.md)  
-[3.6.16 Configure Basic Wireless Security](modules/1netplus/security/basic/README.md)  
+➡️ [3.2.14 Configure Access Control](modules/1netplus/security/access/README.md)  
+➡️ [3.6.16 Configure Basic Wireless Security](modules/1netplus/security/basic/README.md)  
 
 ### 📕 [Network Defense](https://www.netacad.com/courses/network-defense?courseLang=en-US)
 

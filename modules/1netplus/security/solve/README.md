@@ -41,4 +41,6 @@ Record your issues in the table below.
 
 ### Notes
 
+I will go back to this one after NET+. 
+
 [BACK TO MAIN](https://github.com/lfost42/networking)

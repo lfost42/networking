@@ -74,7 +74,7 @@ d.     Use the information in the table to configure email settings for 2-3, HQ-
 #### Step 3: Send an email as Suk-Yi.
 
 a.     On PC 1-1, click Compose.  
-b.     Compose an email Ajulo at BRuser1@mail.cyberhq.com. Enter a subject and email message of your choice. Click Send when finished.  
+b.     Compose an email Ajulo at `BRuser1@mail.cyberhq.com`. Enter a subject and email message of your choice. Click Send when finished.  
 c.     Navigate to Ajulo's PC 2-3. If necessary, click Desktop tab > Email.  
 d.     Click Receive and read the email from Suk-Yi.
 
@@ -101,25 +101,27 @@ b.     Verify each user is correctly created and close the server.
 
 #### Step 3: Transfer files between Net-Admin and the FTP server.
 a.     Click Net-Admin PC, and then click Desktop > Command Prompt.  
-b.     Enter the command ftp 192.168.75.2 to log in to the FTP server, and then authenticate with username sukyi and password cisco123.  
-c.     Enter the dir command to list the files on the FTP server.  
-d.     Use the get command to download aMessage.txt.  
-e.     Quit the FTP session.  
-f.      Close the Command Prompt, click Text Editor, and then File > Open. Open the downloaded file aMessage.txt. What is the message in the file?  
+b.     Enter the command `ftp 192.168.75.2` to log in to the FTP server, and then authenticate with username `sukyi` and password `cisco123`.  
+c.     Enter the `dir` command to list the files on the FTP server.  
+d.     Use the get command to download aMessage.txt. `get aMessage.txt`  
+e.     Quit the FTP session.`quit`  
+f.      Close the Command Prompt, click Text Editor, and then File > Open. Open the downloaded file aMessage.txt. What is the message in the file? `Greetings. You have successfully accessed the FTP server.`  
 g.     Click File > New. Type a text message your choice.  
-h.     Click File > Save and save the new file as aMessage_new.txt. Close the Text Editor.  
+h.     Click File > Save and save the new file as `aMessage_new.txt`. Close the Text Editor.  
 i.      Click Command Prompt and then log back in to the FTP server as user sukyi.  
-j.      Use the put command to upload aMessage_new.txt.  
+j.      Use the put command to upload aMessage_new.txt. `put aMessage_new.txt`  
 k.     Quit the FTP session.
 
 #### Step 4: Verify FTP user privileges are working as configured.
 
 a.     Navigate back to HQ and click HQ-Laptop-1, Desktop tab > Command Prompt.  
-b.     Login to the FTP server at 192.168.75.2 with username malia and password cisco123.  
-c.     Use the delete command to attempt to remove the newly uploaded file aMessage_new.txt. Were you able to delete file from the FTP server? Explain.  
-d.     Use the rename command to attempt to change the name of aMessage_new.txt to aMessage_rename.txt. `rename aMessage_new.txt aMessage_rename.txt` Were you able to rename file from the FTP server?  
+b.     Login to the FTP server at 192.168.75.2 with username `malia` and password `cisco123`.  
+c.     Use the delete command to attempt to remove the newly uploaded file aMessage_new.txt. Were you able to delete file from the FTP server? Explain.  `no, am missing delete perms`  
+d.     Use the rename command to attempt to change the name of aMessage_new.txt to aMessage_rename.txt. `rename aMessage_new.txt aMessage_rename.txt` Were you able to rename file from the FTP server? `yes, have rename perms`  
 e.     Quit the FTP session and close the HQ-Laptop-1 window.
 
 ### Notes
+
+I can imagine something like this being on the Net+! There's something about digging into these that is a lot of fun. I also learned that I need to be more methodic about following these instructions because I missed a config somehow.  
 
 [BACK TO MAIN](https://github.com/lfost42/networking)
