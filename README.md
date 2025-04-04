@@ -51,16 +51,16 @@ I recommend also completing 11.4.4 Build a Switch and Router Network and 12.3.1 
 
 ### ✅ [Network Defense](https://www.netacad.com/courses/network-defense?courseLang=en-US)
 
+I also recommend the activity 4.6.5 Packet Tracer - Configure IP ACLs to Mitigate Attacks and 6.3.11 Configure a ZPF. 
+
 [2.5.4 Configure Wireless Router Hardening and Security](modules/1netplus/defense/wireless/README.md)  
 [2.7.13 Implement Physical Security with IoT Devices](modules/1netplus/defense/iot/README.md)  
-[3.1.14 Configure Access Control](modules/1netplus/defense/access/README.md)  
+➡️ [3.1.14 Configure Access Control](modules/1netplus/defense/access/README.md)  
 [3.4.5 Configure Server-Based Authentication with TACACS+ and RADIUS](modules/1netplus/defense/server/README.md)  
 [4.5.5 Configure Named Standard IPv4 ACLs](modules/1netplus/defense/named/README.md)  
 [4.5.6 Configure Numbered Standard IPv4 ACLs](modules/1netplus/defense/numbered/README.md)  
 [4.5.12 Configure Extended ACLs Scenario 1](modules/1netplus/defense/scen1/README.md)  
 [4.5.13 Configure Extended ACLs Scenario 2](modules/1netplus/defense/scen2/README.md)  
-[4.6.5 Configure IP ACLs to Mitigate Attacks](modules/1netplus/defense/attacks/README.md)  
 [4.7.4 Configure IPv6 ACLs](modules/1netplus/defense/ipv6/README.md)  
-[6.3.11 Configure a ZPF](modules/1netplus/defense/zpf/README.md)  
 [10.3.10 Explore a NetFlow Implementation](modules/1netplus/defense/netflow/README.md)  
 [10.3.11 Logging from Multiple Sources](modules/1netplus/defense/multiple/README.md)  
