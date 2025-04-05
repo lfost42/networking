@@ -15,7 +15,7 @@ All three workstations should be able to ping both the Web Server and File Serve
 Open configuration window
 
 a.     Configure the following named ACL on R1.  
-R1(config)# ip access-list standard File_Server_Restrictions  
+R1(config)# `ip access-list standard File_Server_Restrictions`  
 R1(config-std-nacl)# `permit host 192.168.20.4`  
 R1(config-std-nacl)# `permit host 192.168.100.100`  
 R1(config-std-nacl)# `deny any`

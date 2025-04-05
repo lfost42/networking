@@ -18,7 +18,10 @@ a.     Create a named extended IP access list on router RT1 which will deny PC1 
 
 b.     Begin the ACL configuration with a statement that denies access from PC1 to Server1, only for HTTP (port 80). Refer to the addressing table for the IP address of PC1 and Server1.
 
-RT1(config-ext-nacl)# `deny tcp host 172.31.1.101 host 64.101.255.254 eq 80`
+`en`
+`conf t`
+`ip access-list extended ACL`
+`deny tcp host 172.31.1.101 host 64.101.255.254 eq 80`
 
 c.     Next, enter the statement that denies access from PC1 to Server1, only for HTTPS (port 443).
 
@@ -60,11 +63,14 @@ RT1(config-ext-nacl)# `deny icmp host 172.31.1.103 host 64.103.255.254`
 
 By default, an access list denies all traffic that does not match any rule in the list. Enter the command that permits all traffic that does not match any of the configured access list statements.
 
+`permit ip any any`
+`end`
+
 #### Step 5: Verify the access list configuration before applying it to an interface.
 
 Before any access list is applied, the configuration needs to be verified to make sure that there are no typographical errors and that the statements are in the correct order. To view the current configuration of the access list, use either the show access-lists or the show running-config command.
 
-RT1# show access-lists  
+RT1# `show access-lists`  
 Extended IP access list ACL  
 10 deny tcp host 172.31.1.101 host 64.101.255.254 eq www  
 20 deny tcp host 172.31.1.101 host 64.101.255.254 eq 443  
@@ -76,7 +82,7 @@ Extended IP access list ACL
 80 deny icmp host 172.31.1.103 host 64.103.255.254  
 90 permit ip any any
 
-RT1# show running-config | begin access-list  
+RT1# `show running-config | begin access-list`  
 ip access-list extended ACL  
 deny tcp host 172.31.1.101 host 64.101.255.254 eq www  
 deny tcp host 172.31.1.101 host 64.101.255.254 eq 443  
@@ -101,11 +107,16 @@ Note: In an actual operational network, an untested ACL should never be applied 
 
 Open configuration window. Enter the configuration commands to apply the ACL to the interface.
 
+`conf t` 
+`int g0/0` 
+`ip acces-group ACL in`
+`end`
+
 #### Step 2: Test access for each PC.
 
 a.     Access the websites of Server1 and Server2 using the web browser of PC1. Use both the HTTP and HTTPS protocols. Use the show access-lists command to view which access list statement permitted or denied the traffic. The output of the show access-lists command displays the number of packets that match each statement since the last time the counters were cleared, or the router rebooted. Note: To clear the counters on an access list, use the clear access-list counters command.  
 
-RT1#show ip access-lists  
+RT1# `show ip access-lists`  
 Extended IP access list ACL  
 10 deny tcp host 172.31.1.101 host 64.101.255.254 eq www (12 match(es))  
 20 deny tcp host 172.31.1.101 host 64.101.255.254 eq 443 (12 match(es))  
@@ -124,5 +135,7 @@ c.     Ping Server1 and Server2 from PC1.
 d.     Repeat Step 2a to Step 2c with PC2 and PC3 to verify proper access list operation.
 
 ### Notes
+
+I had to restart this one once I figured out the right commands. It was satisfying to see that I completed it at 100% when I was done!
 
 [BACK TO MAIN](https://github.com/lfost42/networking)
