@@ -97,4 +97,6 @@ g.     From Home Laptop 2, attempt to ping Home Laptop 1 again. The pings should
 
 ### Notes
 
+This was a lot of fun! I almost wish I had this many devices to secure at home!
+
 [BACK TO MAIN](https://github.com/lfost42/networking)

@@ -103,6 +103,6 @@ e.     Quit the FTP session and close the HQ-Laptop-1 window.
 
 ### Notes
 
-I did appreciate this although it is very weird that we keep working with FTP instead of a more secure option. 
+I completed this activity during the Network Support and Security course and moved it here because it fit better. It's very weird to keep working with FTP knowing how inherently insecure it is. I was also surprised to learn that it is still being used for some things in the IT space. 
 
 [BACK TO MAIN](https://github.com/lfost42/networking)

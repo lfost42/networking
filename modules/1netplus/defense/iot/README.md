@@ -29,10 +29,10 @@ c.     Configure the SSID and Authentication mode.
 
 d.     In IP Configuration, click DHCP. Verify the device received an IP address from the 192.168.0.0/24 network. Note: It may be necessary to toggle between Static and DHCP to force Packet Tracer to converge on your settings.  
 e.     Record the MAC address for the IoT device. Format the addresses with colons between each two hexadecimal numbers instead of a period between each four hexadecimal numbers. This format is required for the next step when you will apply MAC address filtering.  
-      o      Home_Siren  
-      o      Home Doors  
-      o      Home_Motion_Sensor  
-      o      Home_Webcam  
+      o      Home_Siren - `00:90:2B:C8:C6:E2`  
+      o      Home Doors - `00:0A:F3:DB:2E:37`  
+      o      Home_Motion_Sensor - `00:40:0B:39:21:24`  
+      o      Home_Webcam - `00:D0:58:D1:C4:11`  
 f.      Repeat these steps for each IoT device.
 
 #### Step 3: Configure MAC address filtering to allow the IoT devices.
@@ -92,5 +92,7 @@ b.     ALT-Click on the webcam. What happened?
 c.     Depress the ALT key and move your mouse over the motion sensor. What happened?
 
 ### Notes
+
+I don't have any IoT at home but it was a fun activity nonetheless. It didn't quite convince me that there is a secure way to set these up.  
 
 [BACK TO MAIN](https://github.com/lfost42/networking)

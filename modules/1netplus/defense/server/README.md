@@ -24,7 +24,12 @@ o    OSPF routing protocol with MD5 authentication using password: MD5pa55
 
 #### Step 2: Configure a backup local database entry called Admin.
 
-For backup purposes, configure a local username of Admin2 and a secret password of admin2pa55.
+For backup purposes, configure a local username of Admin2 and a secret password of admin2pa55 [on R1]. 
+
+`en`  
+`ciscoenpa55`  
+`conf t`  
+`username Admin2 secret admin2pa55`
 
 #### Step 3: Verify the TACACS+ Server configuration.
 
@@ -36,26 +41,42 @@ Configure the AAA TACACS server IP address and secret key on R2.
 
 Note: The commands tacacs-server host and tacacs-server key are deprecated. Currently, Packet Tracer does not support the new command tacacs server.
 
-R2(config)# tacacs-server host 192.168.2.2  
-R2(config)# tacacs-server key tacacspa55
+R2(config)# `tacacs-server host 192.168.2.2`  
+R2(config)# `tacacs-server key tacacspa55`
 
 #### Step 5: Configure AAA login authentication for console access on R2.
 
-Enable AAA on R2 and configure all logins to authenticate using the AAA TACACS+ server. If it is not available, then use the local database.
+Enable AAA on R2 and configure all logins to authenticate using the AAA TACACS+ server. If it is not available, then use the local database. 
+
+`aaa new-model`  
+`aaa authentication login default group tacacs+ local`
 
 #### Step 6: Configure the line console to use the defined AAA authentication method.
 
-Configure AAA authentication for console login to use the default AAA authentication method.
+Configure AAA authentication for console login to use the default AAA authentication method.  
+
+`line console 0`
+`login authenticaion default`  
 
 #### Step 7: Verify the AAA authentication method.
 
 Verify the user EXEC login using the AAA TACACS+ server.
+
+`end`
+`exit`
+`Admin2`
+`admin2pa55`
 
 ### Part 2: Configure Server-Based AAA Authentication Using RADIUS on R3
 
 #### Step 1: Configure a backup local database entry called Admin.
 
 For backup purposes, configure a local username of Admin3 and a secret password of admin3pa55.
+
+`en`  
+`ciscoenpa55`  
+`conf t`  
+`username Admin3 secret admin3pa55`
 
 #### Step 2: Verify the RADIUS Server configuration.
 
@@ -67,8 +88,8 @@ Configure the AAA RADIUS server IP address and secret key on R3.
 
 Note: The commands radius-server host and radius-server key are deprecated. Currently Packet Tracer does not support the new command radius server.
 
-R3(config)# `radius-server host 192.168.3.2`  
-R3(config)# `radius-server key radiuspa55`
+`radius-server host 192.168.3.2`  
+`radius-server key radiuspa55`
 
 #### Step 4: Configure AAA login authentication for console access on R3.
 
@@ -78,14 +99,26 @@ Enable AAA on R3 and configure all logins to authenticate using the AAA RADIUS s
 
 Configure AAA authentication for console login to use the default AAA authentication method.
 
+`aaa new-model`  
+`aaa authentication login default group tacacs+ local`  
+`line console 0`  
+`login authentication default`  
+
 #### Step 6: Verify the AAA authentication method.
 
 Verify the user EXEC login using the AAA RADIUS server.
+
+`end`  
+`exit`  
+`Admin3`  
+`admin3pa55`  
 
 #### Step 7: Check results.
 
 Your completion percentage should be 100%. Click Check Results to see feedback and verification of which required components have been completed.
 
 ### Notes
+
+This was an exercise in using ? and running efficient searches after setting username and secret. I'm sure I'll be doing this again for CCNA.   
 
 [BACK TO MAIN](https://github.com/lfost42/networking)
